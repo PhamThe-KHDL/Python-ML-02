@@ -1,5 +1,5 @@
 # Python & ML 02
-Python &amp; ML 02 - Khóa học free do HCMUT EE Machine Learning &amp; IoT Lab tổ chức giảng dạy
+Python &amp; ML 02 - Khóa học do HCMUT EE Machine Learning &amp; IoT Lab tổ chức giảng dạy
 
 
 
