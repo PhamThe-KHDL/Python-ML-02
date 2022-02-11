@@ -31,7 +31,7 @@ Python &amp; ML 02 - Khóa học do HCMUT EE Machine Learning &amp; IoT Lab tổ
 
 
 
-## Học viên
+## Thực hiện
 ```
 Phạm Đức Thể
 
